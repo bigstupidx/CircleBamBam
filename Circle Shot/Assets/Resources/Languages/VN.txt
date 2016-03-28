@@ -1,0 +1,11 @@
+﻿{
+	"Language": "VN",
+	"List": {
+		"SCORE": "Diem",
+		"BEST_SCORE": "Diem cao nhat",
+		"PLAY": "Choi",
+		"PLAY_AGAIN": "Choi lai",
+		"START": "Bat dau",
+		"SETTING": "Cau hinh"
+	}	
+}

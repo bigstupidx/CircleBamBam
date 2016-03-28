@@ -1,0 +1,11 @@
+﻿{
+	"Language": "CN",
+	"List": {
+		"SCORE": "得分了",
+		"BEST_SCORE": "最好成绩",
+		"PLAY": "玩",
+		"PLAY_AGAIN": "再次",
+		"START": "開始",
+		"SETTING": "設置"
+	}	
+}

@@ -1,0 +1,11 @@
+﻿{
+	"Language": "FR",
+	"List": {
+		"SCORE": "But",
+		"BEST_SCORE": "Meilleur score",
+		"PLAY": "Jouer",
+		"PLAY_AGAIN": "Jouer à nouveau",
+		"START": "Début",
+		"SETTING": "Réglage"
+	}	
+}

@@ -1,0 +1,11 @@
+﻿{
+	"Language": "EN",
+	"List": {
+		"SCORE": "Score",
+		"BEST_SCORE": "Best score",
+		"PLAY": "Play",
+		"PLAY_AGAIN": "Again",
+		"START": "Start",
+		"SETTING": "Setting"
+	}	
+}
